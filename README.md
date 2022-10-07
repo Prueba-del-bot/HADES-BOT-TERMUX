@@ -32,7 +32,6 @@
 ├❏cd HADES-BOT-TERMUX
 ├❏npm install
 ├❏npm update
-├❏npm install
 ├❏npm start
 └────ׂ─ׂ─ׂ─ׂ───  
 ```
