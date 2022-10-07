@@ -1,5 +1,5 @@
-#🔥 𝗛𝗔𝗗𝗘𝗦-𝗕𝗢𝗧-𝗠𝗗🔥
-Bot terminado no recibirá más actualizaciones ✨ 
+#🔥HADES-BOT-TERMUX🔥
+✨ 
 
 <a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
@@ -28,12 +28,10 @@ Bot terminado no recibirá más actualizaciones ✨
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
-├❏cd HADES-BOT-MDV2
+├❏git clone https://github.com/Yovanihades1212/HADES-BOT-TERMUX.git
+├❏cd HADES-BOT-TERMUX
 ├❏npm install
-├❏pkg install yarn
 ├❏npm update
-├❏yarn
 ├❏npm install
 ├❏npm start
 └────ׂ─ׂ─ׂ─ׂ───  
@@ -48,13 +46,13 @@ Bot terminado no recibirá más actualizaciones ✨
 ├❏config.js
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
 ├❏> Para obtener nuevamente el codigo QR, escribe en el termux:
-├❏> cd HADES-BOT-MDV2 
+├❏> cd HADES-BOT-TERMUX
 ├❏> rm -rf session.data.json
 ├❏> npm start 
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
 ├❏> Si el termux se cierra para volver activar escribe:
-├❏> cd HADES-BOT-MDV2 
+├❏> cd HADES-BOT-TERMUX
 ├❏> npm start 
 └────ׂ─ׂ─ׂ─ׂ───
 ├❏> Cada vez que realices una modificacion en el
