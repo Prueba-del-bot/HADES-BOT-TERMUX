@@ -28,7 +28,7 @@
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-TERMUX.git
+├❏git clone https://github.com/Prueba-del-bot/HADES-BOT-TERMUX.git
 ├❏cd HADES-BOT-TERMUX
 ├❏npm install
 ├❏npm update
